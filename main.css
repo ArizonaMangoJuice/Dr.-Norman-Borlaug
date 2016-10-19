@@ -1,0 +1,61 @@
+body{
+  font-family: arial, sans-serif;
+}
+.inner-container{
+  background: #f2f2f2;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1 {
+  padding-top: 10px;
+  font-size: 46px;
+  text-align: center;
+}
+h3{
+  padding-bottom: 15px;
+  font-size: 23px;
+  font-weight: lighter;
+  text-align: center;
+}
+.picture-container{
+  background-color: #fff;
+  border: 10px solid #fff;
+  border-radius: 5px;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 60px;
+}
+h5{
+  text-align: center;
+  margin: 10px;
+
+}
+#title{
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  display: inline;
+
+}
+.bold-year{
+  font-weight: bold;
+}
+.light-text{
+  color: #333;
+}
+.timeline{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.timeline{
+
+}
+#light-quote{
+  font-size: 24px;
+  font-weight: lighter;
+}
