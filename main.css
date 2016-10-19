@@ -4,8 +4,10 @@ body{
 .inner-container{
   background: #f2f2f2;
   width: 90%;
+  height: 1900px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 50px;
 }
 h1 {
   padding-top: 10px;
@@ -56,6 +58,22 @@ p{
 
 }
 #light-quote{
+  color: #222;
+  font-family: sans-serif;
   font-size: 24px;
-  font-weight: lighter;
+  font-weight: 100;
+}
+h6{
+  text-align: center;
+  font-size: 14px;
+  font-weight: 100;
+  color: #666;
+}
+#more-info{
+  font-size: 24px;
+
+}
+#more-info a{
+  text-decoration: none;
+  color: #337ab7;
 }
